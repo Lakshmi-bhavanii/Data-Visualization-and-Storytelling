@@ -19,8 +19,7 @@
 
 ## Files Included
 - Superstore.csv
-- Superstore_Sales_Report.pdf
-- Dashboard Screenshot (optional)
+- Dashboard Screenshots
 
 ## Outcome
 An interactive dashboard designed to highlight sales and profit performance using Power BI.
