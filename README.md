@@ -1,1 +1,26 @@
-# Data-Visualization-and-Storytelling
+# Task 2: Data Visualization – Superstore Sales Analysis
+
+## Tools Used
+- Power BI
+- Superstore Dataset (CSV)
+
+## Dashboards Created
+- Sales by Region (Bar Chart)
+- Profit by Category (Column Chart)
+- Top Customers by Sales (Bar Chart)
+- Profit by Segment (Pie Chart)
+- Sales Over Time (Line Chart)
+
+## Key Insights
+- Technology is the most profitable category.
+- Consumer segment drives the highest profit.
+- Sales peak in Q4 (especially November and December).
+- West and Central regions generate the most sales.
+
+## Files Included
+- Superstore.csv
+- Superstore_Sales_Report.pdf
+- Dashboard Screenshot (optional)
+
+## Outcome
+An interactive dashboard designed to highlight sales and profit performance using Power BI.
