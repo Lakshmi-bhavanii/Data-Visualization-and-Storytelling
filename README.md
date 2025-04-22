@@ -20,6 +20,11 @@
 ## Files Included
 - Superstore.csv
 - Dashboard Screenshots
+- (images/Screenshot 2025-04-23 001405.png)
+- (images/Screenshot 2025-04-23 001332.png)
+- (images/Screenshot 2025-04-23 001307.png)
+- (images/Screenshot 2025-04-23 001236.png)
+
 
 ## Outcome
 An interactive dashboard designed to highlight sales and profit performance using Power BI.
